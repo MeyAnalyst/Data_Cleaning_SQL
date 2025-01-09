@@ -1,5 +1,6 @@
 -- Dataset
 https://www.kaggle.com/datasets/swaptr/layoffs-2022 coverted to jason file;
+
 -- Data Clealing 
 
 SELECT *
