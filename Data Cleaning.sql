@@ -3,15 +3,15 @@ https://www.kaggle.com/datasets/swaptr/layoffs-2022 coverted to jason file;
 
 -- Data Clealing 
 
-SELECT *
-FROM layoffs;
-
 -- 1. Remove Duplicates
 -- 2. Standardise the data
 -- 3. Null values or blank values
 -- 4. Romove any columns
 
 -- 1. Remove Duplicates
+
+SELECT *
+FROM layoffs;
 
 CREATE TABLE layoffs_staging
 LIKE layoffs;
