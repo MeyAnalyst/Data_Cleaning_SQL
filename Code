@@ -3,7 +3,7 @@ https://www.kaggle.com/datasets/swaptr/layoffs-2022; coverted to json
 
 -- Data Clealing
 
-$${\color{SELECT *}Red}$$
+SELECT *
 FROM layoffs;
 
 -- 1. Remove Duplicates
