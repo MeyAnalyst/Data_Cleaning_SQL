@@ -1,9 +1,9 @@
 -- Dataset
 https://www.kaggle.com/datasets/swaptr/layoffs-2022; coverted to json
 
--- $${\color{red}Data Clealing
+-- Data Clealing
 
-SELECT *
+$${\color{SELECT *}Red}$$
 FROM layoffs;
 
 -- 1. Remove Duplicates
